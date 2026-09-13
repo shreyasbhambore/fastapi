@@ -1,0 +1,106 @@
+{
+  "version": 0.6,
+  "generator": "fake-osm-generator",
+  "elements": [
+    {
+      "type": "node",
+      "id": 1001,
+      "lat": 40.712776,
+      "lon": -74.005974,
+      "tags": {
+        "name": "City Hall",
+        "amenity": "public_building"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1002,
+      "lat": 40.713500,
+      "lon": -74.006200,
+      "tags": {
+        "name": "Main Street Cafe",
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1003,
+      "lat": 40.714000,
+      "lon": -74.007000,
+      "tags": {
+        "name": "Central Library",
+        "amenity": "library"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1004,
+      "lat": 40.715000,
+      "lon": -74.004500,
+      "tags": {
+        "name": "River Park",
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1005,
+      "lat": 40.716000,
+      "lon": -74.003000,
+      "tags": {
+        "name": "City Hospital",
+        "amenity": "hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1006,
+      "lat": 40.717000,
+      "lon": -74.002000,
+      "tags": {
+        "name": "Eastside School",
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1007,
+      "lat": 40.718000,
+      "lon": -74.001000,
+      "tags": {
+        "name": "West Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1008,
+      "lat": 40.719000,
+      "lon": -74.000000,
+      "tags": {
+        "name": "Metro Station",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1009,
+      "lat": 40.720000,
+      "lon": -73.999000,
+      "tags": {
+        "name": "Green Pharmacy",
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1010,
+      "lat": 40.721000,
+      "lon": -73.998000,
+      "tags": {
+        "name": "Corner Bookstore",
+        "shop": "books"
+      }
+    }
+  ]
+}

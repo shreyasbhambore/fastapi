@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 899.99,
+    "category": "Electronics",
+    "description": "Lightweight laptop with 16GB RAM and 512GB SSD.",
+    "image_urls": ["https://example.com/images/laptop.png", "https://example.com/images/laptop-2.png"],
+    "dimension": {"length": 35.5, "width": 24.0, "height": 1.8}
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 699.99,
+    "category": "Electronics",
+    "description": "Modern smartphone with a 6.5-inch display.",
+    "image_urls": ["https://example.com/images/smartphone.png"],
+    "dimension": {"length": 16.0, "width": 7.8, "height": 0.8}
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "price": 149.99,
+    "category": "Audio",
+    "description": "Noise-cancelling over-ear headphones.",
+    "image_urls": ["https://example.com/images/headphones.png"],
+    "dimension": {"length": 20.0, "width": 18.0, "height": 8.5}
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "price": 129.99,
+    "category": "Computer Accessories",
+    "description": "RGB keyboard with tactile keys.",
+    "image_urls": ["https://example.com/images/keyboard.png"],
+    "dimension": {"length": 44.0, "width": 13.5, "height": 3.5}
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mouse",
+    "price": 59.99,
+    "category": "Computer Accessories",
+    "description": "High-precision mouse with programmable buttons.",
+    "image_urls": ["https://example.com/images/mouse.png"],
+    "dimension": {"length": 12.0, "width": 6.5, "height": 3.8}
+  },
+  {
+    "id": 6,
+    "name": "Smartwatch",
+    "price": 199.99,
+    "category": "Wearables",
+    "description": "Fitness smartwatch with heart rate monitoring.",
+    "image_urls": ["https://example.com/images/smartwatch.png"],
+    "dimension": {"length": 4.2, "width": 3.8, "height": 1.2}
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "price": 79.99,
+    "category": "Audio",
+    "description": "Portable speaker with deep bass.",
+    "image_urls": ["https://example.com/images/speaker.png"],
+    "dimension": {"length": 18.0, "width": 7.0, "height": 7.0}
+  },
+  {
+    "id": 8,
+    "name": "External SSD",
+    "price": 159.99,
+    "category": "Storage",
+    "description": "1TB external SSD with USB-C connectivity.",
+    "image_urls": ["https://example.com/images/ssd.png"],
+    "dimension": {"length": 11.0, "width": 8.0, "height": 1.0}
+  },
+  {
+    "id": 9,
+    "name": "Webcam",
+    "price": 49.99,
+    "category": "Computer Accessories",
+    "description": "HD webcam for video calls and streaming.",
+    "image_urls": ["https://example.com/images/webcam.png"],
+    "dimension": {"length": 9.0, "width": 6.0, "height": 4.0}
+  },
+  {
+    "id": 10,
+    "name": "Office Chair",
+    "price": 249.99,
+    "category": "Furniture",
+    "description": "Ergonomic office chair with lumbar support.",
+    "image_urls": ["https://example.com/images/office-chair.png"],
+    "dimension": {"length": 60.0, "width": 60.0, "height": 100.0}
+  }
+]
